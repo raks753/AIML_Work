@@ -1,4 +1,4 @@
-# Repo_name1
-This repository contains my works
+# Rakesh Submissions - PGP AIML Course
+This repository contains my submissions to the ongoing exercises and projects as part of my AIML PG Program from Austin University
 
-This code contains answer to Practice Exercise 1 of Introduction to Python (PGP AIML course)
+
